@@ -7,5 +7,4 @@ function generateGradient() {
     document.body.style.background = `linear-gradient(to right, ${color1}, ${color2})`;
 }
 
-// Initial gradient preview
 generateGradient();
